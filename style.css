@@ -26,7 +26,6 @@ body {
 
 .container {
   max-width: 384px;
-  /* min-width: 275px; */
   width: 100%;
   border-radius: 20px;
   background-color: var(--White);
@@ -46,10 +45,10 @@ body {
   display: block;
   background-color: var(--Yellow);
   width: fit-content;
-  padding: 8px 12px;
+  padding: 4px 12px;
   border-radius: 0.3em;
   font-weight: 800;
-  font-size: 1rem;
+  font-size: .875rem;
   margin-bottom: 12px;
 }
 
